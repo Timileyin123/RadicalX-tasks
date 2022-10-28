@@ -1,0 +1,78 @@
+.title-container{
+height : 530px;
+}
+.Title{
+    display: flex;
+    padding-top: 2em;
+}
+.internship-titles{
+    width: 355px;
+}
+.title{
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 12px;
+    background-color: #F6F5F9;
+    border-radius: 20px 0px 0px 0px;
+}
+.title strong{
+    font-size: 14px;
+    width: 102px;
+}
+.completion{
+    width: 200px;
+}
+.period{
+    height: 56px;
+    background-color: #F6F5F9;
+    justify-content: space-between;
+    padding: 16px 12px;
+    display: flex;
+}
+.period strong{
+    font-size: 14px;
+    width: 124px;
+}
+.enroll{
+    width: 160px;
+}
+.total-enroll{
+    display: flex;
+    height: 56px;
+    justify-content: space-between;
+    padding: 16px 12px;
+    background-color:#F6F5F9;
+    font-size: 14px
+}
+.total-enroll strong{
+    width: 92px;
+}
+.qualifiers{
+    width: 200px;
+}
+.qualifiedCandi{
+    display: flex;
+    height: 56px;
+    padding: 16px 12px;
+    justify-content: space-between;
+    background-color: #F6F5F9;
+}
+.qualifiedCandi strong{
+    width: 130px;
+    font-size: 14px;
+}
+.action{
+    width: 100px;
+}
+.heading{
+    height: 56px;
+    background-color: #F6F5F9;
+    padding: 16px;
+    border-radius : 0px 20px 0px 0px;
+    gap: 56px;
+    display: flex;
+}
+.heading strong{
+    font-size: 14px;
+}

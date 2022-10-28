@@ -1,0 +1,81 @@
+.insight{
+    margin-top: 2em;
+    border-radius: 16px;
+    height: 830px;
+    padding: 16px;
+    justify-content: space-between;
+}
+.insights{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 16px;
+    height: 270px;
+    background-color: #fff;
+    border-radius: 16px;
+    gap: 16px;
+}
+.insights-p{
+background-color : #F6F5F9;
+width: 280px;
+height: 238px;
+padding: 16px;
+border-radius: 16px;
+}
+.heading{
+    font-weight: 600;
+    font-size: 20px;
+}
+.insight-chart{
+    width: 700px; 
+    height: 238px;
+    gap: 16px;
+} 
+.filterBar{
+    height: 51px;
+    padding: 8px;
+background-color : #F2F2F2;
+border-radius: 12px;
+font-weight: 500;
+}
+.filterBarOne{
+    width: 640px;
+    height: 32px;
+    gap: 340px;
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.filterOne{
+    display: flex;
+    gap: 12px;
+    height: 50px;
+    width: 203px;
+}
+
+.filterBarOne p{
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 14px;
+    width: 91px;
+}
+.filterBarOne .week{
+background-color : #793EF5;
+color:#fff;
+}
+.filterBarOne .month{
+    background-color : #fff;
+} 
+.filterBarTwo{
+    display: flex;
+    width: 300px;
+    height: 34px;
+    background-color: #fff !important;
+    border-radius: 8px;
+    padding: 6px 12px;
+    font-size: 14px;
+}
+.filterBarTwo img{
+    width: 20px;
+}

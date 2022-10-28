@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    flex-direction: column;
+     width: 1030px; 
+    height: 906px;
+    position: absolute;
+    top: 57px;
+    left: 281px;
+    /* align-items: flex-start; */
+}
+.intern{
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+}
+.create{
+    display: flex;
+    width: 217px;
+background-color : #793EF5;
+color: #fff;
+border-radius: 12px;
+align-items: center;
+gap : 8px;
+padding : 12px 16px;
+
+}
+.create img{
+    width: 20px;
+    height: 20px;
+}
+.create a{
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}

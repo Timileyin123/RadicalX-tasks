@@ -1,0 +1,93 @@
+.titleContent{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+.track {
+    height : 96px;
+    background-color : #fff;
+    gap : 56px;
+    padding : 16px;
+}
+.name-desc {
+    width : 195px;
+    height : 64px;
+}
+.desc p {
+    font-size: 12px;
+    color: #2F3031;
+}
+
+.days {
+    height : 96px;
+    gap : 56px;
+    background-color : #fff;
+    padding : 16px;
+    margin-left: 7em;
+}
+.days p {
+    color: #828282;
+    font-size: 12px;
+}
+.enrolled {
+    height : 96px;
+    padding : 16px;
+    background-color : #fff;
+    margin-left: 2em;
+}.enrolled strong {
+    background-color: #F0EFFD;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #793EF5;
+    font-size: 18px;
+}
+.qualifierChart {
+    width : 200px;
+    height : 96px;
+    background-color : #fff;
+    gap : 56px;
+    padding : 16px;
+}
+.candidate {
+    width : 140px;
+    height : 60px;
+    gap : 8px;
+    margin-top : -0.5em;
+    margin-left: 2.5em;
+}
+.candidate p {
+    padding: 4px;
+    background-color: #793EF5;
+    width: 40px;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 200;
+    color: #fff;
+    height: 24px;
+}
+.candidate img {
+    width: 140px;
+    margin-left: 0.4em;
+}
+.action-chart {
+    height : 96px;
+    background-color : #fff;
+}
+.buttons-group {
+    width : 108px;
+    gap : 6px;
+    display : flex;
+    padding-top : 1em;
+    padding: 10px;
+}.buttons-group img {
+    width: 25px;
+    height: 28px;
+}
+
+
+
+
+
